@@ -15,4 +15,7 @@ This Slack bot automates approval requests within a workspace. Users can request
 ## Architecture Diagram
 The architecture diagram is created using eraser.io  
 
+![Alt Text](https://github.com/akshatmanohar21/Slack-Bot/blob/main/architecture_diagram.png)
+
+
 
